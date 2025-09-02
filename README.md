@@ -3,9 +3,11 @@
 Welcome! I’m a Junior Data Analyst with a background in Statistics & Data Science.  
 I specialize in analyzing data and turning it into actionable insights.
 
----
 
-## 📊 Dashboards
+---
+## Personal Projects
+<!--
+### 📊 Dashboards
 - **Mobility Analytics (Austin Bikeshare Dataset)**  
   Interactive Looker Studio dashboard analyzing demand/supply trends.  
   [View Dashboard](https://lookerstudio.google.com/s/kYuahIp6GOg)
@@ -17,19 +19,25 @@ I specialize in analyzing data and turning it into actionable insights.
 - **HR Analytics**  
   Employee attrition analysis dashboard.  
   [View Dashboard](https://public.tableau.com/...)
-
+-->
 ---
+### 🧠 Exploratory Data Analysis
 
-## 📘 Machine Learning Projects
+- **Democracy Index Analysis**
+  Analyzing Democracy Index from Wikipedia with R
+  [View Work](https://liavb22.github.io/Democracy_Index_Analysis/)
+### 📘 Machine Learning Projects
+<!--
 - **Car Image Clustering** (Unsupervised ML with Python)  
   [View Code](https://github.com/username/car-clustering)
 
 - **Healthcare RAG Chatbot**  
   Retrieval-Augmented Generation chatbot demo with Streamlit + OpenAI.  
   [View Code](https://github.com/username/healthcare-rag-chatbot)
-
+-->
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- Email: your@email.com
+- [LinkedIn](https://www.linkedin.com/in/liav-botton/)
+- [GitHub](https://github.com/Liavb22)
+  
