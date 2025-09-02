@@ -1,14 +1,14 @@
-# Liav Botton – Data Science Portfolio
+# Liav Botton – Data Analyst Portfolio
 
-Welcome! I’m a Junior Data Scientist with a background in Statistics & Data Science.  
+Welcome! I’m a Junior Data Analyst with a background in Statistics & Data Science.  
 I specialize in analyzing data and turning it into actionable insights.
 
 ---
 
 ## 📊 Dashboards
-- **Mobility Analytics (Uber Data)**  
+- **Mobility Analytics (Austin Bikeshare Dataset)**  
   Interactive Looker Studio dashboard analyzing demand/supply trends.  
-  [View Dashboard](https://lookerstudio.google.com/reporting/...)
+  [View Dashboard](https://lookerstudio.google.com/s/kYuahIp6GOg)
 
 - **Sales Performance**  
   Tableau dashboard exploring profit & revenue trends.  
