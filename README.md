@@ -6,12 +6,12 @@ I specialize in analyzing data and turning it into actionable insights.
 
 ---
 ## Personal Projects
-<!--
-### 📊 Dashboards
-- **Mobility Analytics (Austin Bikeshare Dataset)**  
-  Interactive Looker Studio dashboard analyzing demand/supply trends.  
-  [View Dashboard](https://lookerstudio.google.com/s/kYuahIp6GOg)
 
+### 📊 Dashboards
+- **Revenue Analytics (Austin Bikeshare Dataset)**  
+  Interactive Looker Studio dashboard analyzing revenue trends of a bikeshare company.  
+  [View Dashboard](https://lookerstudio.google.com/s/oKRfBgq20bw)
+<!--
 - **Sales Performance**  
   Tableau dashboard exploring profit & revenue trends.  
   [View on Tableau Public](https://public.tableau.com/...)
